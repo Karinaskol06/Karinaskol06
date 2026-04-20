@@ -1,7 +1,6 @@
-## Hi there 👋 I'm Karina
+## Hi 👋 I'm Karina
 
-I'm a **Java Backend Developer** focused on learning by building meaningful, real-world applications while continuously improving my skills. 
-I prefer working on backend logic and system foundations, including architecture, data handling, and performance.
+I'm a **Java Backend Developer**.
 
 ### Tech stack
 - **Languages:** Java, Python, JavaScript
