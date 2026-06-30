@@ -40,7 +40,8 @@ Frontend with **React**.
 
 
 ### Focus areas
-- **Apache Kafka** (event-driven notifications and async communication)
+- **System design** (designing scalable, maintainable, and resilient architectures)
+- **Automated Testing** (writing comprehensive tests (unit, integration, E2E) to ensure reliability and enable CI/CD)
 - **Docker & Kubernetes** (container orchestration and scaling)
 - **AWS fundamentals** (cloud deployment)
 
