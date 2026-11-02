@@ -38,9 +38,12 @@ I'm a **Java Backend Developer**.
 </table>
 
 
-### 📌 Currently working on
-Focused on taking **Book Reviewer** from local/Docker into a real **AWS** deployment (wiring the app, supporting services, and monitoring so it runs outside my machine).  
-<img src="./profile/book-reviewer.svg" alt="Book Reviewer" />
+### 📌 Open to work
+Seeking a **Software Engineer** role where I can build real products. 
+### Latest projects:
+<p> **[Book Reviewer](https://github.com/Karinaskol06/book-reviewer)** - designed, built, and deployed to **AWS**. </p>
+<p> **[WebChat](https://github.com/Karinaskol06/webchat-microservices)** - Spring Cloud microservices chat with real-time WebSocket delivery. </p>
+
 
 <p align="center">
   <img height="160" src="./profile/stats.svg" alt="GitHub stats" />
