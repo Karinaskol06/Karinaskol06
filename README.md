@@ -41,8 +41,8 @@ I'm a **Java Backend Developer**.
 ### 📌 Open to work
 Seeking a **Software Engineer** role where I can build real products. 
 ### Latest projects:
-<p> **[Book Reviewer](https://github.com/Karinaskol06/book-reviewer)** - designed, built, and deployed to **AWS**. </p>
-<p> **[WebChat](https://github.com/Karinaskol06/webchat-microservices)** - Spring Cloud microservices chat with real-time WebSocket delivery. </p>
+<p><a href="https://github.com/Karinaskol06/book-reviewer"><strong>Book Reviewer</strong></a> - designed, built, and deployed to <strong>AWS</strong>.</p>
+<p><a href="https://github.com/Karinaskol06/webchat-microservices"><strong>WebChat</strong></a> - Spring Cloud microservices chat with real-time WebSocket delivery.</p>
 
 
 <p align="center">
