@@ -23,7 +23,7 @@ I'm a **Java Backend Developer**.
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /></td>
+    <td><img  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/amazon-web-services-badge/default.svg"  width="40" height="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" /></td>
@@ -40,11 +40,11 @@ I'm a **Java Backend Developer**.
 
 ### 📌 Currently working on
 Focused on taking **Book Reviewer** from local/Docker into a real **AWS** deployment (wiring the app, supporting services, and monitoring so it runs outside my machine).  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karinaskol06&repo=book-reviewer&theme=transparent&hide_border=true" alt="Book Reviewer" />
+<img src="./profile/book-reviewer.svg" alt="Book Reviewer" />
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Karinaskol06&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinaskol06&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="160" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="160" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 
